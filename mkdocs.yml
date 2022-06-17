@@ -1,6 +1,13 @@
-site_name: OK Notebook
+site_name: OK Notebook 
+site_url: https://ori-kruk.github.io/ # must have the trailing slash
+
 theme:
   name: material
+  features:
+      - navigation.instant
+      - navigation.tracking
+      - navigation.tabs
+      - navigation.sections
 
 markdown_extensions:
   - admonition
@@ -11,5 +18,6 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+
 
 
