@@ -1,23 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://ori-kruk.github.io/</loc>
+         <lastmod>2022-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ori-kruk.github.io/Gazebo/gazebo/</loc>
-         <lastmod>2022-06-17</lastmod>
+         <lastmod>2022-06-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ori-kruk.github.io/MkDocs/configuration/</loc>
-         <lastmod>2022-06-17</lastmod>
+         <lastmod>2022-06-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ori-kruk.github.io/MkDocs/extensions/</loc>
-         <lastmod>2022-06-17</lastmod>
+         <lastmod>2022-06-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ori-kruk.github.io/MkDocs/installation/</loc>
-         <lastmod>2022-06-17</lastmod>
+         <lastmod>2022-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ori-kruk.github.io/Ubuntu/apt/</loc>
+         <lastmod>2022-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ori-kruk.github.io/Ubuntu/file_%20system/</loc>
+         <lastmod>2022-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ori-kruk.github.io/Ubuntu/installation/</loc>
+         <lastmod>2022-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ori-kruk.github.io/Ubuntu/network/</loc>
+         <lastmod>2022-06-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
